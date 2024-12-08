@@ -90,6 +90,6 @@ The goal of this analysis is to:
 
 ## 🔗 Let’s Connect!  
 
-I encourage you to connect with me on [LinkedIn](#) to discuss these findings further and share your insights on credit card performance.
+I encourage you to connect with me on [[LinkedIn](https://www.linkedin.com/in/akhil-ahmed-irshad-sareshwala-555b79331/)](#) to discuss these findings further and share your insights on credit card performance.
 
 ---
